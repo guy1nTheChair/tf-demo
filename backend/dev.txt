@@ -1,0 +1,4 @@
+bucket = "ap-south-1-santosh-tf-demo"
+key = "tf_state_files/dev/terraform.state"
+encrypt = true
+region = "ap-south-1"

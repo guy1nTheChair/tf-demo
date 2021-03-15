@@ -1,5 +1,5 @@
 region = "ap-south-1"
-key_pair = "my-first-key-pair"
+key_pair = "tf-demo"
 ami_id = "ami-02d55cb47e83a99a0"
 instance_type = "t2.micro"
 security_group = ["sg-0a6d1ad9f4e41a468"]
